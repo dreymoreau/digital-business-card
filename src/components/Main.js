@@ -11,7 +11,7 @@ export default function Main(){
             </section>
             <section className="move--left">
                 <h2>About</h2>
-                <p>I am fullstack developer with a passion of programming, 
+                <p>I am a fullstack developer with a passion of programming, 
                     art, mental health, nature and climate tech. I am a life
                     long learner.
                 </p>
