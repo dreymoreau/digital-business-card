@@ -1,13 +1,95 @@
-body {
+*{
+  box-sizing: border-box;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background: #23252C;
+  font-family: Inter, 'arial', 'sans-serif';
+}
+
+.container {
+  border: 2px solid black;
+  border-radius: 22px;
+  width: 317px;
+  height: 799px;
+  display: block;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.main--body{
+  background: #1A1B21;
+  height: 352.5px;
+}
+.main--explain{
+  margin: -5px;
+  padding: 20px;
+  color: #FFFFFF;
+}
+
+.move--more {
+  padding: 10px;
+  color: #F3BF99;
+}
+
+.main--photo {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 314px;
+  height: 405px;
+}
+
+button{
+  width: 70px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid black;
+  background: #5093E2;
+  margin: 0 20px;
+}
+
+.email--button {
+  background: #fff;
+}
+
+a{
+  text-decoration: none;
+}
+.change--font{
+  color: #000;
+}
+
+.linkedin--button {
+  color: #ffffff;
+}
+
+.move--left{
+  text-align: left;
+  padding: 20px;
+}
+
+.move--up{
+  margin: -20px 0;
+}
+h2{
+  color: #F5F5F5;
+  font-size: 16px;
+}
+
+p{
+  color: #DCDCDC;
+  font-size: 12px;
+}
+
+.footer--items {
+  height: 39px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background: #161619;
+  padding: 10px;
+}
+.spacing{
+  margin: 0 20px;
 }
