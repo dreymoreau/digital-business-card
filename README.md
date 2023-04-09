@@ -1,4 +1,4 @@
-# Digital Business Card:  <a target="_blank" href="https://dreys-digital-business-card.netlify.app/">Visit Here</a>
+# Digital Business Card:  <a target="_blank" href="https://dreys-digital-business-card.netlify.app/">See It Here</a>
 
 What I learned while working on and completing this project:
 - how to start and stop a server
